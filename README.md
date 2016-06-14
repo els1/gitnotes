@@ -69,3 +69,12 @@ git commit
 For a log message, describe why you made the change, not what change you 
 made as the computer can tell you the latter but not the former. Make the 
 first line a brief oneline overview.
+
+
+# Viewing changes
+
+You can view all the log messages going back to the start with (the `--graph` options draws a pretty graph and `--oneline` just displays the first line of each message)
+
+```bash
+git log
+```
