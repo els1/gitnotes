@@ -139,3 +139,8 @@ Switch to a different branch (may overwrite files)
 git checkout history
 ```
 
+# Adding extra information here
+Run the NANO editor
+```bash
+nano
+```
