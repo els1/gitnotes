@@ -12,6 +12,8 @@ Linux - possibly already installed, if "git" at the command doesn't work
 Ububtu/Debian: sudo apt-get install git
 Fedora: sudo dnf install git
 
+URL for diagram: https://www.sharcnet.ca/help/index.php/GIT#Basic_workflow
+
 # Configuration 
 
 Global configuration stored under ~/.gitconfig. Local configuration store$ 
@@ -137,3 +139,8 @@ Switch to a different branch (may overwrite files)
 git checkout history
 ```
 
+# Adding extra information here
+Run the NANO editor
+```bash
+nano
+```
